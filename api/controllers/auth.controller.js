@@ -1,5 +1,6 @@
 export const register = (req,res)=>{
     //db operations
+    console.log ("register endpoint") 'register endpoint'
 }
 export const login = (req,res)=>{
     //db operations
