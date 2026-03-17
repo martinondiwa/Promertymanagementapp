@@ -1,5 +1,5 @@
 export const register = (req,res)=>{
-    //db operations annotation
+    //db operations annotations
     console.log ("register endpoint") 'register endpoint'
 }
 export const login = (req,res)=>{
